@@ -1,0 +1,16 @@
+h1
+{
+    color: white;
+}
+body
+{
+    background-color: black;
+}
+#bot
+{
+    width: 800px;
+    margin:0 auto;
+    background-color: white;
+    text-align: center;
+    align-content: center;
+}
